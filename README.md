@@ -1,2 +1,2 @@
 # ProjectStart
-This is the place to try out stuff.
+GitHub seems like a great place to learn new things.
